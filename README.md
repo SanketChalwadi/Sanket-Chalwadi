@@ -13,7 +13,6 @@
 ## 🧑‍💻 About Me
 
 💡 Passionate about **AI + Web Development**  
-🚜 Building **Farmers Marketplace Platform**  
 ⚡ Love creating **modern animated UIs with React + Tailwind**  
 🎯 Goal: Build products that solve **real-world problems**
 
