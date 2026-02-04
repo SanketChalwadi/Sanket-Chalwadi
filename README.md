@@ -51,11 +51,6 @@
 
 ## 🔥 Featured Projects
 
-### 🚜 Farmers Marketplace
-✔ Real-time crop prices  
-✔ AI recommendations  
-✔ Government schemes access  
-✔ MERN + Tailwind + AI  
 
 ### 🛒 AI E-Commerce Platform
 ✔ Smart product suggestions  
