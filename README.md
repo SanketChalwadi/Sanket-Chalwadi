@@ -15,7 +15,7 @@
 💡 Passionate about **AI + Web Development**  
 ⚡ Love creating **modern animated UIs with React + Tailwind**  
 🎯 Goal: Build products that solve **real-world problems**
-
+   
 ---
 
 ## 🚀 Tech Stack
@@ -38,14 +38,6 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge&logo=cloudinary)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
----
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
@@ -97,7 +89,10 @@ AI/ML ███████░░░ 75%
 
 ---
 
+
+
 <!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+
