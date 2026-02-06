@@ -54,6 +54,20 @@
 ✔ AI improvements  
 ✔ Resume analytics  
 
+
+## ⚡ Developer Mode
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/terminal.gif" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Always%20Building-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20MERN-blueviolet?style=for-the-badge"/>
+</p>
+
+
+
 ---
 
 ## 📈 Skill Progress Bars (Animated style)
