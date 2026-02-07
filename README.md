@@ -54,7 +54,7 @@
 ✔ AI improvements  
 ✔ Resume analytics  
        
-
+ 
 ## ⚡ Developer Mode
 
 <p align="center">
@@ -95,7 +95,13 @@ AI/ML ███████░░░ 75%
 
 ---
 
+
+
+
 ## 👀 Visitors Counter
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
