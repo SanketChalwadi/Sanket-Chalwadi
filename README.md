@@ -53,7 +53,7 @@
 ✔ ATS score checker  
 ✔ AI improvements  
 ✔ Resume analytics  
-
+       
 
 ## ⚡ Developer Mode
 
