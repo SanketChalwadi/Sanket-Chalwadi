@@ -21,7 +21,7 @@
 </p>
 
 <!-- ========================================================= -->
-<!--                         LINKS                             -->
+<!--                         SOCIAL LINKS                       -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -74,7 +74,7 @@ products that solve real-world problems.
 ---
 
 <!-- ========================================================= -->
-<!--                       TECHNOLOGIES                        -->
+<!--                     TECHNOLOGIES                          -->
 <!-- ========================================================= -->
 
 # 🛠️ Technologies
@@ -181,11 +181,17 @@ An AI-powered platform designed to improve resumes and increase ATS compatibilit
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-000000?style=for-the-badge&logo=github&logoColor=white"
+/>
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20MERN-000000?style=for-the-badge&logo=code&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/FOCUS-AI%20%7C%20MERN-000000?style=for-the-badge&logo=code&logoColor=white"
+/>
 
-<img src="https://img.shields.io/badge/MODE-DEVELOPER-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/MODE-DEVELOPER-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+/>
 
 </p>
 
@@ -214,10 +220,10 @@ An AI-powered platform designed to improve resumes and increase ATS compatibilit
 ---
 
 <!-- ========================================================= -->
-<!--                 GITHUB CONTRIBUTION GRAPH                 -->
+<!--                 CONTRIBUTION GRAPH                        -->
 <!-- ========================================================= -->
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -232,23 +238,7 @@ An AI-powered platform designed to improve resumes and increase ATS compatibilit
 ---
 
 <!-- ========================================================= -->
-<!--              CONTRIBUTION GRAPH - DETAILED                -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=8"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                    CONTRIBUTION SNAKE                     -->
+<!--                  CONTRIBUTION SNAKE                       -->
 <!-- ========================================================= -->
 
 # 🐍 Contribution Snake
