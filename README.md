@@ -20,22 +20,35 @@
   />
 </p>
 
+<!-- ========================================================= -->
+<!--                         LINKS                             -->
+<!-- ========================================================= -->
+
 <p align="center">
+
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://YOUR_PORTFOLIO.com">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
 
 ---
+
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
 
 # 👨‍💻 About Me
 
@@ -59,6 +72,10 @@ products that solve real-world problems.
 </p>
 
 ---
+
+<!-- ========================================================= -->
+<!--                       TECHNOLOGIES                        -->
+<!-- ========================================================= -->
 
 # 🛠️ Technologies
 
@@ -99,9 +116,11 @@ products that solve real-world problems.
 
 ---
 
-# 🚀 Featured Projects
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
 
-<p align="center">
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -143,9 +162,11 @@ An AI-powered platform designed to improve resumes and increase ATS compatibilit
 </tr>
 </table>
 
-</p>
-
 ---
+
+<!-- ========================================================= -->
+<!--                     DEVELOPER MODE                        -->
+<!-- ========================================================= -->
 
 # ⚡ Developer Mode
 
@@ -170,6 +191,10 @@ An AI-powered platform designed to improve resumes and increase ATS compatibilit
 
 ---
 
+<!-- ========================================================= -->
+<!--                  GITHUB STATISTICS                        -->
+<!-- ========================================================= -->
+
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -188,18 +213,43 @@ An AI-powered platform designed to improve resumes and increase ATS compatibilit
 
 ---
 
-# 📈 Contribution Graph
+<!-- ========================================================= -->
+<!--                 GITHUB CONTRIBUTION GRAPH                 -->
+<!-- ========================================================= -->
+
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Sanket's%20Contribution%20Graph"
   width="100%"
+  alt="Sanket's GitHub Contribution Graph"
 />
 
 </p>
 
 ---
+
+<!-- ========================================================= -->
+<!--              CONTRIBUTION GRAPH - DETAILED                -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=8"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CONTRIBUTION SNAKE                     -->
+<!-- ========================================================= -->
 
 # 🐍 Contribution Snake
 
@@ -213,6 +263,10 @@ An AI-powered platform designed to improve resumes and increase ATS compatibilit
 </p>
 
 ---
+
+<!-- ========================================================= -->
+<!--                       SKILL PROGRESS                      -->
+<!-- ========================================================= -->
 
 # 📌 Skill Progress
 
