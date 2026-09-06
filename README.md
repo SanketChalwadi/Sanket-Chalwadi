@@ -1,62 +1,68 @@
 <!-- ========================================================= -->
+<!--                                                           -->
 <!--                  SANKET CHALWADI                          -->
 <!--              GITHUB PROFILE README                        -->
+<!--                                                           -->
 <!-- ========================================================= -->
 
 
 <!-- ========================================================= -->
-<!--                       HEADER                              -->
+<!--                       HEADER BANNER                        -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:080B14,50:10172A,100:18233F&height=200&section=header&text=SANKET%20CHALWADI&fontSize=44&fontColor=FFFFFF&fontAlignY=43&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI&descAlignY=68&descSize=16&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,35:0B1220,70:111B31,100:18233F&height=210&section=header&text=SANKET%20CHALWADI&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI&descAlignY=68&descSize=16&animation=fadeIn"
     width="100%"
+    alt="Sanket Chalwadi Header"
   />
 </p>
 
 
 <!-- ========================================================= -->
-<!--                    TYPING ANIMATION                       -->
+<!--                       TYPING TEXT                         -->
 <!-- ========================================================= -->
 
 <p align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=8B9DFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%2B+Web+Developer;Building+Modern+Digital+Products;Always+Learning+%26+Building"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=8B9DFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%2B+Web+Developer;Building+Modern+Digital+Products;Turning+Ideas+Into+Applications;Always+Learning+%26+Building"
     alt="Typing Animation"
   />
 
 </p>
 
 
+<br>
+
+
 <!-- ========================================================= -->
-<!--                    SOCIAL LINKS                           -->
+<!--                       SOCIAL LINKS                         -->
 <!-- ========================================================= -->
 
 <p align="center">
 
   <a href="https://github.com/YOUR_USERNAME">
     <img
-      src="https://img.shields.io/badge/GITHUB-151A2B?style=for-the-badge&logo=github&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"
     />
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img
-      src="https://img.shields.io/badge/LINKEDIN-151A2B?style=for-the-badge&logo=linkedin&logoColor=4C9AFF"
+      src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=4C9AFF"
     />
   </a>
 
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img
-      src="https://img.shields.io/badge/EMAIL-151A2B?style=for-the-badge&logo=gmail&logoColor=EA4335"
+      src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
     />
   </a>
 
   <a href="https://YOUR_PORTFOLIO.com">
     <img
-      src="https://img.shields.io/badge/PORTFOLIO-151A2B?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
     />
   </a>
 
@@ -65,10 +71,11 @@
 
 <br>
 
+
 ---
 
 <!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
+<!--                         ABOUT ME                           -->
 <!-- ========================================================= -->
 
 # 🔗 About Me
@@ -85,6 +92,8 @@ const sanket = {
 
     role: "Full Stack Developer",
 
+    location: "India",
+
     focus: [
         "AI",
         "Web Development",
@@ -92,51 +101,54 @@ const sanket = {
         "UI/UX"
     ],
 
-    building: [
+    currentlyBuilding: [
         "AI Powered Applications",
-        "Full Stack Projects",
+        "Full Stack Web Applications",
         "Smart Digital Products"
     ],
 
-    learning: [
-        "Advanced JavaScript",
+    frontend: [
+        "JavaScript",
         "React",
-        "Node.js",
-        "Artificial Intelligence"
+        "Next.js",
+        "Tailwind CSS",
+        "HTML5",
+        "CSS3"
     ],
 
-    technologies: {
-        frontend: [
-            "React",
-            "Next.js",
-            "Tailwind CSS"
-        ],
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
 
-        backend: [
-            "Node.js",
-            "Express.js"
-        ],
+    database: [
+        "MongoDB",
+        "MySQL"
+    ],
 
-        database: [
-            "MongoDB",
-            "MySQL"
-        ],
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Figma"
+    ],
 
-        languages: [
-            "JavaScript",
-            "Python"
-        ]
-    },
+    learning: [
+        "Artificial Intelligence",
+        "Advanced JavaScript",
+        "System Design",
+        "DSA"
+    ],
 
     interests: [
-        "Artificial Intelligence",
+        "AI",
         "Web Applications",
         "Automation",
         "Modern UI/UX"
     ],
 
-    goal:
-        "Build useful technology that solves
-         real-world problems."
+    mindset:
+        "Build. Learn. Improve. Repeat."
 
 };
